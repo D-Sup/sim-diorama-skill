@@ -1,0 +1,9 @@
+{
+  "name": "sim-diorama-skill-scripts",
+  "private": true,
+  "type": "module",
+  "description": "verify.mjs / record.mjs 실행용 (헤드리스 크롬)",
+  "devDependencies": {
+    "playwright": "^1.48.0"
+  }
+}
